@@ -1,32 +1,32 @@
 
 a {
   color: white;
-  font-family: "Lucida Console", monospace;
+  font-family: "Century Gothic", monospace;
   font-size: 30px;
 }
 
 h1 {
   color: white;
-  font-family: "Lucida Console", monospace;
+  font-family: "Century Gothic", monospace;
   font-size: 50px;
 }
 
 p {
   color: white;
-  font-family: "Lucida Console", monospace;
+  font-family: "Century Gothic", monospace;
   font-size: 30px;
 }
 
 
 #hsuhdr {
   text-align: center;
-  font-family: "Lucida Console", monospace;
+  font-family: "Century Gothic", monospace;
   font-size: 50px;
   font-style: italic;
 }
 
 #hsuimg {
-  max-height: 576px;
+  max-height: 240px;
   max-width: 1024px;
   margin-left: auto;
   margin-right: auto;
@@ -34,5 +34,5 @@ p {
 }
 
 body {
-  background-color: #1c60ff;
+  background-color: #383838;
 }

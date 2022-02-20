@@ -1,22 +1,22 @@
 
 a {
   color: white;
-  font-family: "Lucida Console", monospace;
+  font-family: "Century Gothic", monospace;
   font-size: 30px;
 }
 
 h1 {
   color: white;
-  font-family: "Lucida Console", monospace;
+  font-family: "Century Gothic", monospace;
   font-size: 50px;
 }
 
 p {
   color: white;
-  font-family: "Lucida Console", monospace;
+  font-family: "Century Gothic", monospace;
   font-size: 30px;
 }
 
 body {
-  background-color: #1c60ff;
+  background-color: #383838;
 }
