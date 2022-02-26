@@ -25,6 +25,14 @@ p {
   display: block;
 }
 
+#rbximg {
+  max-height: 150px;
+  max-width: 512px;
+  margin-left: auto;
+  margin-right: 15px;
+  display: block;
+}
+
 body {
   background-color: #383838;
 }
